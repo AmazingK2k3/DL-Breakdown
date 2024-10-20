@@ -1,2 +1,6 @@
 /.venv
 /.vscode
+/Language_modelling.ipynb
+/Text_Processing.ipynb
+/web-scrapping.ipynb
+/morphological_analysis.ipynb
